@@ -19,11 +19,13 @@ Building practical machine learning and AI systems through hands-on projects. Fo
 
 ## Selected Projects
 
-### Project 1: Real-time Card Detection (YOLOv8)
+## Project 1: Real-time Card Detection (YOLOv8)
+
 Computer vision system for detecting playing cards in real-time using YOLOv8.  
 Trained on custom dataset with augmentation and exported to ONNX for deployment.  
 Tech: Python, YOLOv8, Roboflow, ONNX 
 Result: Achieved high-confidence real-time detection with stable inference performance (optimized ONNX model for faster inference).
+
 ---
 
 ### Project 2: Employee Attrition Prediction System
