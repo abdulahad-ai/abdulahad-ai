@@ -19,34 +19,36 @@ Building practical machine learning and AI systems through hands-on projects. Fo
 
 ## Selected Projects
 
-### Project 1: [Project Name]
-Simple ML model solving a real prediction/classification problem.  
-Tech: Python, scikit-learn  
-Result: [Add metric or outcome if available]
+### Project 1: Real-time Card Detection (YOLOv8)
+Computer vision system for detecting playing cards in real-time using YOLOv8.  
+Trained on custom dataset with augmentation and exported to ONNX for deployment.  
+Tech: Python, YOLOv8, Roboflow, ONNX 
+Result: Achieved high-confidence real-time detection with stable inference performance (optimized ONNX model for faster inference).
+---
+
+### Project 2: Employee Attrition Prediction System
+End-to-end machine learning pipeline for predicting employee attrition using HR data. Includes data preprocessing, feature engineering, and comparison of multiple classification models (Logistic Regression, Decision Tree, Random Forest).
+Tech: Python, scikit-learn, Pandas
+Result: Best model (Random Forest) achieved ~85–90% accuracy with improved recall for attrition cases after tuning.
+
 
 ---
 
-### Project 2: [Project Name]
-Applied machine learning project with dataset preprocessing and model training.  
-Tech: Python, Pandas, scikit-learn  
-Result: [Add outcome]
-
----
-
-### Project 3: [Project Name]
-Basic AI/automation project demonstrating applied logic and data handling.  
-Tech: Python  
-Result: [Add outcome]
+### Project 3: Student Performance Prediction System
+End-to-end ML pipeline for predicting academic performance using regression and classification models with feature engineering and evaluation.  
+Tech: Python, scikit-learn, Pandas
+Result: Achieved ~80–88% model accuracy depending on target formulation, with best performance from ensemble-based models.
 
 ---
 
 ## Current Focus
-- Strengthening fundamentals in machine learning
-- Building end-to-end ML projects
-- Improving code quality and project structure
+- Building machine learning, deep learning, and computer vision projects with end-to-end workflows  
+- Improving model performance through experimentation, tuning, and feature representation learning  
+- Developing structured, reproducible codebases for training and deployment-ready AI systems
 
 ---
 
 ## Contact
 GitHub: https://github.com/abdulahad-ai  
-Email: [your email]
+Email: abdulahad.workai@gmail.com
+LinkedIn: www.linkedin.com/in/abdulahad-ai
