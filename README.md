@@ -38,7 +38,7 @@ This project is a real-time Facial Emotion Recognition system developed using a 
 ## Project 3: Human Pose Estimation & Activity Classification
 
 Rule-based human activity classification pipeline using MediaPipe Pose — extracts body keypoints, computes joint angles (knee, elbow, hip), applies Savitzky-Golay smoothing, and classifies activities like standing and squatting with real-time skeleton overlay on video.
----
+
 
 ## Current Focus
 - Building machine learning, deep learning, and computer vision projects with end-to-end workflows  
