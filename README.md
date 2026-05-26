@@ -28,19 +28,16 @@ Result: Achieved high-confidence real-time detection with stable inference perfo
 
 ---
 
-### Project 2: Employee Attrition Prediction System
-End-to-end machine learning pipeline for predicting employee attrition using HR data. Includes data preprocessing, feature engineering, and comparison of multiple classification models (Logistic Regression, Decision Tree, Random Forest).
-Tech: Python, scikit-learn, Pandas
-Result: Best model (Random Forest) achieved ~85–90% accuracy with improved recall for attrition cases after tuning.
+## Project 2: Facial Emotion Recognition using CNN
+
+This project is a real-time Facial Emotion Recognition system developed using a Convolutional Neural Network (CNN) trained on the FER-2013 dataset. The model detects and classifies 7 different human emotions from facial expressions in both images and live webcam input. OpenCV Haar Cascade is used for face detection, while the trained deep learning model performs emotion classification. The project demonstrates image preprocessing, CNN training, real-time prediction, and computer vision integration using Python, TensorFlow/Keras, and OpenCV.
 
 
 ---
 
-### Project 3: Student Performance Prediction System
-End-to-end ML pipeline for predicting academic performance using regression and classification models with feature engineering and evaluation.  
-Tech: Python, scikit-learn, Pandas
-Result: Achieved ~80–88% model accuracy depending on target formulation, with best performance from ensemble-based models.
+## Project 3: Human Pose Estimation & Activity Classification
 
+Rule-based human activity classification pipeline using MediaPipe Pose — extracts body keypoints, computes joint angles (knee, elbow, hip), applies Savitzky-Golay smoothing, and classifies activities like standing and squatting with real-time skeleton overlay on video.
 ---
 
 ## Current Focus
