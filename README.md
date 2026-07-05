@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0f13,100:1a1a1f&height=200&section=header&text=ABDUL%20AHAD&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20in%20Progress&descAlignY=65&descSize=20&descColor=00ff9c&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Machine+Learning+%26+Software+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Software+Systems" alt="Typing SVG" />
 
 </div>
 
