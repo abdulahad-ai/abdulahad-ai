@@ -53,14 +53,3 @@ Rule-based human activity classification pipeline using MediaPipe Pose — extra
 GitHub: https://github.com/abdulahad-ai
 Email: abdulahad.workai@gmail.com
 LinkedIn: [www.linkedin.com/in/abdulahad-ai](https://www.linkedin.com/in/abdulahad-ai)
-
----
-
-<div align="center">
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdulahad-ai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahad-ai&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c" width="48%" />
-
-</div>
